@@ -25,3 +25,7 @@
   font-size: 2rem;
   color: #3c0080;
 }
+
+.counter button {
+  margin: 1rem;
+}
